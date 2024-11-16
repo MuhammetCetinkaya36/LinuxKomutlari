@@ -7,33 +7,33 @@ Kısaca söylemek gerekirse Linux terminal komutları, kullanıcıların işleti
 
 ## Hangi Komut Hangi Konu Başlığına Girer
 
-#### Dosya İçeriği Görüntüleme ve Düzenleme Komutları 🗃️:
+### Dosya İçeriği Görüntüleme ve Düzenleme Komutları 🗃️:
 
 Cat Komutu , Head Komutu , Tail Komutu , Tac Komutu , Nano Komutu , Sed Komutu , Grep Komutu , Cut Komutu
 
-#### Disk ve Sistem Yönetimi Komutları 💾:
+### Disk ve Sistem Yönetimi Komutları 💾:
 
 Df Komutu , Du -sh Komutu , Free Komutu , Top Komutu , Htop Komutu , Vmstat Komutu , Uptime Komutu , Ps Komutu , Whoami Komutu , Who Komutu
 
-#### Ağ Komutları 🛜 :
+### Ağ Komutları 🛜 :
 
 Ping Komutu , Traceroute Komutu , İp -a Komutu , Netstat -tuln Komutu , Dig Komutu , İfconfig Komutu
 
-#### Paket Yönetimi ve Yazılım Komutları 🧑‍💻:
+### Paket Yönetimi ve Yazılım Komutları 🧑‍💻:
 
 Apt Komutu , Sudo apt Komutu , Sudo Komutu
 
-#### Sıkıştırma ve Arşivleme Komutları 🗄️:
+### Sıkıştırma ve Arşivleme Komutları 🗄️:
 Gzip Komutu , Gunzip Komutu , Tar Komutu , Zip Komutu , Unzip Komutu
 
-#### Bilgi ve Yardım Komutları 🔬 :
+### Bilgi ve Yardım Komutları 🔬 :
 Man Komutu , History Komutu , Alias Komutu , Neofetch Komutu , İnxi -F Komutu , İnxi -G Komutu
 
-#### Dosya Güvenliği ve Şifreleme Komutları 🔐:
+### Dosya Güvenliği ve Şifreleme Komutları 🔐:
 
 Shred -u Komutu , Chmod Komutu , Passwd Komutu
 
-#### Çeşitli Yardımcı Komutlar 💁:
+### Çeşitli Yardımcı Komutlar 💁:
 
 Echo Komutu , Time Komutu , Sort Komutu , Wc Komutu , Jobs Komutu , Env Komutu
 
