@@ -26,7 +26,7 @@ Apt Komutu , Sudo apt Komutu , Sudo Komutu
 #### Sıkıştırma ve Arşivleme Komutları 🗄️:
 Gzip Komutu , Gunzip Komutu , Tar Komutu , Zip Komutu , Unzip Komutu
 
-#### Bilgi ve Yardım Komutları :
+#### Bilgi ve Yardım Komutları 🔬 :
 Man Komutu , History Komutu , Alias Komutu , Neofetch Komutu , İnxi -F Komutu , İnxi -G Komutu
 
 #### Dosya Güvenliği ve Şifreleme Komutları 🔐:
